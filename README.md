@@ -1,4 +1,4 @@
-#### PostGIS Day 2021 patters/examples coming soon!
+#### PostGIS Day 2021 patterns/examples coming soon!
 
 ## Scriptable Web Server for lightweight geospatial services based on postgis and friends
 
