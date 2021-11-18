@@ -1,7 +1,6 @@
 #### PostGIS Day 2021 patters/examples coming soon!
 
 ## Scriptable Web Server for lightweight geospatial services based on postgis and friends
-===
 
 Build some fast geospatial APIs, An [OpenResty][1] starter kit to write pure [Lua][2] APIs.
 
@@ -121,7 +120,7 @@ libraries :
 
 Route | Description | Script
 ----- | ----------- | ------
-/ip | Call an external service | [ip.lua](lua/ip.lua)
+/ip | Call an external service 
 /geocode | location for the OpenCage forward geocoding API geocode service
 /reverse_geocode | location for the OpenCage reverse geocoding API geocode service
 /get_features | Finds the intersecting features from input geojson and returns geojson
