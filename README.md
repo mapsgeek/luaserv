@@ -8,9 +8,6 @@ No framework or GIS server ! Forget about your favorite framework and mapping se
 Express or even Sinatra, here the HTTP requests are handled directly in
 [nginx][3] by executing [Lua][2] scripts to interact with PostGIS, pg_featureserv, pg_tileserv, and external API's.
 
-Getting started
-
-
 Configuration
 -------------
 
