@@ -89,7 +89,7 @@ four containers :
 
 Take a look at the following component diagram :
 
-![Docker Compose services](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuIf8JCvEJ4zLK7B9JyvEBL9mpiyjo2zELLAevb9GYFPpz_IBY0MnWb9JCej1h9J4aiIan6AWZe3yufBqejHYY5gWcgIqH92AMgvQhkIS_D8KY1cP1PbvQVbwcVcnG76Fa9001LqxkCbGMa4NA0Qn0qKCR2QA28fv3gbvAK1F0000)
+![Docker Compose services](https://user-images.githubusercontent.com/4240439/142416525-6a4885bf-9dae-49f8-aeee-195d06d5f550.png)
 
 To start the environment, simply run :
 
