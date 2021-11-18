@@ -120,8 +120,8 @@ Route | Description | Script
 /ip | Call an external service 
 /geocode | location for the OpenCage forward geocoding API geocode service
 /reverse_geocode | location for the OpenCage reverse geocoding API geocode service
-/get_features | Finds the intersecting features from input geojson and returns geojson
-/get_tile | get bytea mvt tile from input params
+/get_features | Finds the intersecting features from input geojson and returns geojson from db (PL/pgSQL)
+/get_tile | get bytea mvt tile from input params from db (PL/pgSQL)
 /querydb | YesSQL - call templated SQL queries by name and input paramters
 /pg_featureserv | proxy location for pg_featureserv
 /pg_tileserv | proxy location for pg_tileserv
