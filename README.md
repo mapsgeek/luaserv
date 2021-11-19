@@ -99,7 +99,7 @@ docker-compose up -d --build
 OPM
 ---
 
-Two libraries are installed during the Docker image building process :
+Five libraries are installed during the Docker image building process :
 
 * [lua-resty-http][5] : An HTTP Client
 * [pgmoon][6] : A PostgreSQL driver
